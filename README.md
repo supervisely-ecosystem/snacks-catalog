@@ -37,6 +37,6 @@ Can be used as demo for:
 
 ## Examples
 
-TODO
+<img src="https://media0.giphy.com/media/OJ3yvul4NUAb465gd4/giphy.gif"/>
 
   
