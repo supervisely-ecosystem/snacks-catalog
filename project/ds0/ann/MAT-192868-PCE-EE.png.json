@@ -2,18 +2,37 @@
     "description": "",
     "tags": [
         {
-            "id": 564990,
-            "tagId": 5072,
+            "id": 565513,
+            "tagId": 5344,
             "name": "192868",
             "value": null,
             "labelerLogin": "admin",
-            "createdAt": "2021-03-05T12:52:31.285Z",
-            "updatedAt": "2021-03-05T12:52:31.285Z"
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z"
         }
     ],
     "size": {
         "height": 800,
         "width": 800
     },
-    "objects": []
+    "objects": [
+        {
+            "id": 7675502,
+            "classId": 22905,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z",
+            "tags": [],
+            "classTitle": "product",
+            "bitmap": {
+                "data": "eJwBLQPS/IlQTkcNChoKAAAADUlIRFIAAAF4AAACcwEDAAAAP3yauwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAALVSURBVHic7d1BrhMxDAbgAE+85bBjg5QdZ2CXq3CEd4PkaFmx5Qo5QiQ2WczLQFVKi6ha/5YcnI6969MnP8/ISTUjNXbOfdz+RHF3Y/sr0vGPz8dP6xUft9tx8S8PWe76Q5wL6SR/Dm2edr38/N3dN+bNz+PjrvwK+6DMe8g3cb8o88+ivqrz70R9MX8zsrh/I+rT5N7BHvuCZPgo6PsvH4S9F/SHB5pFmUc23MbwyII/eKShUV//feL8/z6CPtB94Xgv57PDGpTlgQZNHA80NMsDDe04HmhQno9U3nk+UP3K817YL1TfhH09vyeT9OQF8NuTG7oo81mZT6B3yvKDvivzp9fX1P5vynwV9oXpqfuPNl+V+oXo24N46v1ZmZ5aDze/dD1U3yf3m7CfvX6t3pu/6RctPo3xnuqV3n9yfvR6zc/ltfWD9HrRVs/kvjPzByHfhf0q7B+lfi/kpetHfVPmZ6/fvPk9+6rM7+16UV+U1WNeh4/mzZvfjQ/CHq1H2gdlPpq/GsW8efPmzZs3b968iA9En82bN78775XVY978pffmH9oHoi/mSd5P6qt58wN9M2/evHnzQ3wd5BfzV6MM8ujvhdHfO6P1aPF5kKfef631aPFJ2J/qofY/6pNw/pOnnv+wN18exFMPPEJ9BeupzPxSvinzqzLfhf2mzacxXuw8oszz5PpRX8B6tPk6xpPPE2s6Pfn8tFWZ7zy/UP02xnsxf9yAgjIfxXxmeTLneeA8TNQXjgfO/yzQ8sJ9xZbLGO/pvmn0AfSR7leNns7V+Y4t3yEe2B6GeGgAg0K/ID7Jez+5D4jP8j5q8gWcjyDtK5wfmx+B+qrOI9shx8vOu9E2bwidxyTtO+zD5D6q8vLzB2U9Wv8Gzpub3UvP4wPqab6G8J3mf7x+e3p5//L5E+3r8bW2t849faA+XXzJX90pCLy6i7gFj68nsiP6a+NSfwKP90imO9cBHgAAAABJRU5ErkJggu69snI=",
+                "origin": [
+                    226,
+                    82
+                ]
+            }
+        }
+    ]
 }

@@ -2,18 +2,37 @@
     "description": "",
     "tags": [
         {
-            "id": 564984,
-            "tagId": 5066,
+            "id": 565507,
+            "tagId": 5361,
             "name": "192788",
             "value": null,
             "labelerLogin": "admin",
-            "createdAt": "2021-03-05T12:50:29.944Z",
-            "updatedAt": "2021-03-05T12:50:29.944Z"
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z"
         }
     ],
     "size": {
         "height": 800,
         "width": 800
     },
-    "objects": []
+    "objects": [
+        {
+            "id": 7675474,
+            "classId": 22905,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z",
+            "tags": [],
+            "classTitle": "product",
+            "bitmap": {
+                "data": "eJwBBwP4/IlQTkcNChoKAAAADUlIRFIAAAHFAAACagEDAAAAYK3JYQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKvSURBVHic7d1BbvIwEAXg/GLB0kfIUXI0+2g+io+QZRYRaZuftKVKofMm8jD4vRWLfLRC9oxjkNN19xKWZZnuXnHNaflIWl+fl8+Uu2hY7iVDas18A87rm8XHbM3lxknkz2gkCN8/cEpKK4mPW3yuJAOZ/1KEnkj2jcjgSCaFPD++6AVkp5CnFuRFI//5kbM3CbbByZ2MkBzdyQGSxZ3sIZmNZHAjk0pibRCXnUpiLclArnf6UJH3Jf/vhljIWFVOSjk4keMqewMZAFnMJFLCcJk7tBBpJVIUUodObbWMsBzkstPK3kAGMbyopXzIb1I+cHG5bezLh7xeyof8pJexnhz1cjCQvVQWSxmkMruSaZPicuJLdvXlz+8ln1vOBnJyKkMjsncgv0bfUE1eDpBRKBcLmTYphQqZ1VK+YrSQRS3lq3FLKb9foaSkpKSkpLSQvlYYlJT1ZaakpKSkpDxQJkpKSspDpXy3mZKS8m/pKCkpKSkpD5SJkpKSkpLyKWSmfGLpY4ebkpKSkrKOLJSUlC8sff26lJKSkpKS8kgZKCkpX0iOcE3QS/lqvDUp36duTcrPMiityUi5n7zJgXI/qRG5QflpZrC8mMpA+TRyaUUmS1nxRLzsShafMkjlaCAnvexhOUjl57Ft0UBK4VfBhSVwWLRayu8FFTKBk+wAGeQya2Uvl0Urh5py1MroQ07gxPYmZ7SYGEqgDF0LLuWdoOW2HZl0Mry+zGAr8yaLTg6Uv2cEW3Y7cgKbvUeJPfZxbkhCzX5dKLQiwQfXupOhtkw2sq8tsytZwMbrUMbacvQmMfjxCbmS4NOhjSTWyvxJ9InxNjI4kiPaHBRyQgv1+9/EZXQkJ9+yu+bhhL+V3U5++5++y7QHb3Pakfkxu0m4SqlbE7993yuU8+NrdvMG5vlylFNwLzEAAAAASUVORK5CYIJz6XM3",
+                "origin": [
+                    174,
+                    91
+                ]
+            }
+        }
+    ]
 }

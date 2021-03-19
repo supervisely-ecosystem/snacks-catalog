@@ -2,18 +2,37 @@
     "description": "",
     "tags": [
         {
-            "id": 564995,
-            "tagId": 5077,
+            "id": 565518,
+            "tagId": 5376,
             "name": "194896",
             "value": null,
             "labelerLogin": "admin",
-            "createdAt": "2021-03-05T12:54:55.245Z",
-            "updatedAt": "2021-03-05T12:54:55.245Z"
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z"
         }
     ],
     "size": {
         "height": 800,
         "width": 800
     },
-    "objects": []
+    "objects": [
+        {
+            "id": 7675492,
+            "classId": 22905,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z",
+            "tags": [],
+            "classTitle": "product",
+            "bitmap": {
+                "data": "eJwBDQLy/YlQTkcNChoKAAAADUlIRFIAAADuAAAC0QEDAAAAZpMNMAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAG1SURBVHic7dxNTsMwEAXgCV0gVhwBjsANQOIwHCORuBhH6ZJllgGshiRNgl3qSejIeOy82VTlq9s3cWpX9Idoqifn8oHcKtqx3oer9Y/ctXaZYt/deOLKxa5eDdGuGfkU7ap4bhfYgCPwM8+FiHccNzzfs3wgMBgMBoPTZQMGg8FgMBgM7v8zIGHFjYHBYDA4EZbtROCztdUZ22rfYLBVOM/BYDA4Edb9Apz7CIqMjYiDRtsqK54SWbRsWfHJpJgVT2i2851u34pPBzAYvFlWvNzL1lTFybPd5sDg9ZztsrfV5d7wXz9b5qCHRRaN4yYkB00es7GYRy3d5Ok2li1nOyXpri3pJsfi8f+Mo3YJx3xhAgZnwYqf39lytvMdvLHyYm4isiy54r7TTY4ZS41XLD2xogVtbAUHiyZnv2rficpIvOL57VfNjYHBYDD4j+zXFcy9J3ngR7eLfFWyzH0sf5kXkstYsEn2O/Cjn+uOb/28J7bxirhsfXDmwZuBr338NrDv3s1RfdnHwZ7h0+Dp0b9crmY+/rCsyzVZ9dL94eN3U3MVLn/SSd0wY90GzuJ8dK3I9A16bL0N4QHVkQAAAABJRU5ErkJgglPAApE=",
+                "origin": [
+                    286,
+                    44
+                ]
+            }
+        }
+    ]
 }

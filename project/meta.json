@@ -1,47 +1,20 @@
 {
-    "classes": [],
+    "classes": [
+        {
+            "title": "product",
+            "shape": "bitmap",
+            "color": "#0000FF",
+            "geometry_config": {},
+            "id": 22905,
+            "hotkey": ""
+        }
+    ],
     "tags": [
-        {
-            "name": "173403",
-            "value_type": "none",
-            "color": "#F3127B",
-            "id": 5054,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "175421",
-            "value_type": "none",
-            "color": "#70C64E",
-            "id": 5055,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "287627",
-            "value_type": "none",
-            "color": "#3B32B8",
-            "id": 5032,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "287629",
-            "value_type": "none",
-            "color": "#AF874B",
-            "id": 5033,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
         {
             "name": "1000591",
             "value_type": "none",
-            "color": "#1B8356",
-            "id": 5034,
+            "color": "#D08A8F",
+            "id": 5375,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -49,8 +22,8 @@
         {
             "name": "1001130",
             "value_type": "none",
-            "color": "#CC3E5F",
-            "id": 5035,
+            "color": "#FEBD0B",
+            "id": 5382,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -58,8 +31,8 @@
         {
             "name": "1001140",
             "value_type": "none",
-            "color": "#8819D7",
-            "id": 5036,
+            "color": "#E826C1",
+            "id": 5402,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -67,8 +40,8 @@
         {
             "name": "1001141",
             "value_type": "none",
-            "color": "#E98E6D",
-            "id": 5037,
+            "color": "#35B17D",
+            "id": 5400,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -76,8 +49,8 @@
         {
             "name": "1001143",
             "value_type": "none",
-            "color": "#B98CD4",
-            "id": 5038,
+            "color": "#97026D",
+            "id": 5401,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -85,8 +58,17 @@
         {
             "name": "1001257",
             "value_type": "none",
-            "color": "#CD889B",
-            "id": 5039,
+            "color": "#BA4554",
+            "id": 5397,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1001258",
+            "value_type": "none",
+            "color": "#C984D2",
+            "id": 5398,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -94,8 +76,8 @@
         {
             "name": "1001461",
             "value_type": "none",
-            "color": "#5BBDE1",
-            "id": 5040,
+            "color": "#0A51C2",
+            "id": 5356,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -103,8 +85,8 @@
         {
             "name": "1001662",
             "value_type": "none",
-            "color": "#85D355",
-            "id": 5041,
+            "color": "#98B611",
+            "id": 5388,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -112,8 +94,8 @@
         {
             "name": "1001671",
             "value_type": "none",
-            "color": "#0DD939",
-            "id": 5042,
+            "color": "#EBF82A",
+            "id": 5387,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -121,8 +103,8 @@
         {
             "name": "1003101",
             "value_type": "none",
-            "color": "#348365",
-            "id": 5043,
+            "color": "#E74640",
+            "id": 5345,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -130,314 +112,8 @@
         {
             "name": "124215",
             "value_type": "none",
-            "color": "#E0429F",
-            "id": 5044,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "127406",
-            "value_type": "none",
-            "color": "#C4A654",
-            "id": 5045,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "127407",
-            "value_type": "none",
-            "color": "#62D001",
-            "id": 5046,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "127408",
-            "value_type": "none",
-            "color": "#352390",
-            "id": 5047,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "127409",
-            "value_type": "none",
-            "color": "#D3B573",
-            "id": 5048,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "155749",
-            "value_type": "none",
-            "color": "#C44F67",
-            "id": 5049,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "155750",
-            "value_type": "none",
-            "color": "#9A9132",
-            "id": 5050,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "164319",
-            "value_type": "none",
-            "color": "#DD00E0",
-            "id": 5051,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "173064",
-            "value_type": "none",
-            "color": "#45DEB3",
-            "id": 5052,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "173074",
-            "value_type": "none",
-            "color": "#9F16A2",
-            "id": 5053,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "176322",
-            "value_type": "none",
-            "color": "#F1FA47",
-            "id": 5056,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "180422",
-            "value_type": "none",
-            "color": "#98B950",
-            "id": 5057,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "181816",
-            "value_type": "none",
-            "color": "#988F16",
-            "id": 5058,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "185371",
-            "value_type": "none",
-            "color": "#C266B1",
-            "id": 5059,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "187908",
-            "value_type": "none",
-            "color": "#15AAAC",
-            "id": 5060,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "190818",
-            "value_type": "none",
-            "color": "#57CBC4",
-            "id": 5061,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192222",
-            "value_type": "none",
-            "color": "#A05BE1",
-            "id": 5062,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192223",
-            "value_type": "none",
-            "color": "#CB9A76",
-            "id": 5063,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192779",
-            "value_type": "none",
-            "color": "#A5B909",
-            "id": 5064,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192789",
-            "value_type": "none",
-            "color": "#0F9F63",
-            "id": 5067,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192795",
-            "value_type": "none",
-            "color": "#C97A64",
-            "id": 5070,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192877",
-            "value_type": "none",
-            "color": "#52BFEB",
-            "id": 5073,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "194238",
-            "value_type": "none",
-            "color": "#E41188",
-            "id": 5076,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "198522",
-            "value_type": "none",
-            "color": "#DAAE10",
-            "id": 5079,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192786",
-            "value_type": "none",
-            "color": "#C8DB39",
-            "id": 5065,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192791",
-            "value_type": "none",
-            "color": "#B54AF7",
-            "id": 5068,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192867",
-            "value_type": "none",
-            "color": "#44D5A2",
-            "id": 5071,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "194232",
-            "value_type": "none",
-            "color": "#E0221F",
-            "id": 5075,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "197812",
-            "value_type": "none",
-            "color": "#9888CD",
-            "id": 5078,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192788",
-            "value_type": "none",
-            "color": "#764723",
-            "id": 5066,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192793",
-            "value_type": "none",
-            "color": "#981F72",
-            "id": 5069,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "192868",
-            "value_type": "none",
-            "color": "#B89B56",
-            "id": 5072,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "194170",
-            "value_type": "none",
-            "color": "#07EDBC",
-            "id": 5074,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "194896",
-            "value_type": "none",
-            "color": "#BD3228",
-            "id": 5077,
-            "hotkey": "",
-            "applicable_type": "all",
-            "classes": []
-        },
-        {
-            "name": "198530",
-            "value_type": "none",
-            "color": "#6F2A33",
-            "id": 5080,
+            "color": "#B038FA",
+            "id": 5380,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -445,8 +121,332 @@
         {
             "name": "124216",
             "value_type": "none",
-            "color": "#87DE90",
-            "id": 5081,
+            "color": "#F967C8",
+            "id": 5381,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "127406",
+            "value_type": "none",
+            "color": "#EAD55D",
+            "id": 5391,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "127407",
+            "value_type": "none",
+            "color": "#A9B342",
+            "id": 5384,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "127408",
+            "value_type": "none",
+            "color": "#E732A1",
+            "id": 5373,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "127409",
+            "value_type": "none",
+            "color": "#BA7D40",
+            "id": 5383,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "155749",
+            "value_type": "none",
+            "color": "#E3845F",
+            "id": 5393,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "155750",
+            "value_type": "none",
+            "color": "#61A607",
+            "id": 5394,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "164319",
+            "value_type": "none",
+            "color": "#9A1D38",
+            "id": 5379,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "173064",
+            "value_type": "none",
+            "color": "#3ADF42",
+            "id": 5395,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "173074",
+            "value_type": "none",
+            "color": "#CE85D6",
+            "id": 5396,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "173403",
+            "value_type": "none",
+            "color": "#2D7B45",
+            "id": 5346,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "175421",
+            "value_type": "none",
+            "color": "#2AB9E5",
+            "id": 5351,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "176322",
+            "value_type": "none",
+            "color": "#8FE868",
+            "id": 5386,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "180422",
+            "value_type": "none",
+            "color": "#8BD482",
+            "id": 5342,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "181816",
+            "value_type": "none",
+            "color": "#7D2649",
+            "id": 5354,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "185371",
+            "value_type": "none",
+            "color": "#A0B95B",
+            "id": 5389,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "187908",
+            "value_type": "none",
+            "color": "#35F3C4",
+            "id": 5374,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "190818",
+            "value_type": "none",
+            "color": "#AF467A",
+            "id": 5412,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192222",
+            "value_type": "none",
+            "color": "#44F0F3",
+            "id": 5350,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192223",
+            "value_type": "none",
+            "color": "#9B9B17",
+            "id": 5352,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192779",
+            "value_type": "none",
+            "color": "#65D770",
+            "id": 5355,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192786",
+            "value_type": "none",
+            "color": "#88EC3C",
+            "id": 5362,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192788",
+            "value_type": "none",
+            "color": "#658128",
+            "id": 5361,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192789",
+            "value_type": "none",
+            "color": "#7DD5E3",
+            "id": 5360,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192791",
+            "value_type": "none",
+            "color": "#C57796",
+            "id": 5365,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192793",
+            "value_type": "none",
+            "color": "#81D657",
+            "id": 5358,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192795",
+            "value_type": "none",
+            "color": "#4DD63D",
+            "id": 5364,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192867",
+            "value_type": "none",
+            "color": "#D1DF34",
+            "id": 5348,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192868",
+            "value_type": "none",
+            "color": "#2FFE5C",
+            "id": 5344,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192877",
+            "value_type": "none",
+            "color": "#36F92F",
+            "id": 5343,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "194170",
+            "value_type": "none",
+            "color": "#0FDB57",
+            "id": 5359,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "194232",
+            "value_type": "none",
+            "color": "#B8193C",
+            "id": 5335,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "194238",
+            "value_type": "none",
+            "color": "#4FE8CC",
+            "id": 5334,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "194896",
+            "value_type": "none",
+            "color": "#4444EE",
+            "id": 5376,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "197812",
+            "value_type": "none",
+            "color": "#C940A5",
+            "id": 5347,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198522",
+            "value_type": "none",
+            "color": "#62148F",
+            "id": 5390,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198530",
+            "value_type": "none",
+            "color": "#06AC33",
+            "id": 5399,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -454,8 +454,8 @@
         {
             "name": "198643",
             "value_type": "none",
-            "color": "#5A3A8D",
-            "id": 5082,
+            "color": "#B748D5",
+            "id": 5331,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -463,8 +463,8 @@
         {
             "name": "198648",
             "value_type": "none",
-            "color": "#B2B95B",
-            "id": 5083,
+            "color": "#BD9828",
+            "id": 5333,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -472,8 +472,8 @@
         {
             "name": "198649",
             "value_type": "none",
-            "color": "#8F8F24",
-            "id": 5084,
+            "color": "#7E692A",
+            "id": 5339,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -481,8 +481,8 @@
         {
             "name": "198651",
             "value_type": "none",
-            "color": "#462C6D",
-            "id": 5085,
+            "color": "#A51609",
+            "id": 5341,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -490,8 +490,8 @@
         {
             "name": "198652",
             "value_type": "none",
-            "color": "#FB2F18",
-            "id": 5086,
+            "color": "#69B715",
+            "id": 5337,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -499,8 +499,8 @@
         {
             "name": "198656",
             "value_type": "none",
-            "color": "#2EA359",
-            "id": 5087,
+            "color": "#640FAE",
+            "id": 5349,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -508,8 +508,8 @@
         {
             "name": "198660",
             "value_type": "none",
-            "color": "#DD3666",
-            "id": 5088,
+            "color": "#9E1A34",
+            "id": 5336,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []
@@ -517,8 +517,242 @@
         {
             "name": "198666",
             "value_type": "none",
-            "color": "#AD1473",
-            "id": 5089,
+            "color": "#BC1077",
+            "id": 5353,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198669",
+            "value_type": "none",
+            "color": "#BD8E51",
+            "id": 5332,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198938",
+            "value_type": "none",
+            "color": "#765DC0",
+            "id": 5363,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "199340",
+            "value_type": "none",
+            "color": "#55BCEC",
+            "id": 5338,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "199347",
+            "value_type": "none",
+            "color": "#7D26CF",
+            "id": 5340,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "205815",
+            "value_type": "none",
+            "color": "#E0C557",
+            "id": 5407,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "205816",
+            "value_type": "none",
+            "color": "#4364DB",
+            "id": 5408,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "287623",
+            "value_type": "none",
+            "color": "#627BEA",
+            "id": 5403,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "287626",
+            "value_type": "none",
+            "color": "#F943F0",
+            "id": 5404,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "287627",
+            "value_type": "none",
+            "color": "#E7DC36",
+            "id": 5405,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "287629",
+            "value_type": "none",
+            "color": "#F71D53",
+            "id": 5406,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "804772",
+            "value_type": "none",
+            "color": "#4F5CC9",
+            "id": 5372,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "804795",
+            "value_type": "none",
+            "color": "#6D662C",
+            "id": 5370,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "804805",
+            "value_type": "none",
+            "color": "#FC995F",
+            "id": 5369,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "808307",
+            "value_type": "none",
+            "color": "#E4D47C",
+            "id": 5385,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "808317",
+            "value_type": "none",
+            "color": "#92F953",
+            "id": 5377,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "808517",
+            "value_type": "none",
+            "color": "#F13BAF",
+            "id": 5411,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "808729",
+            "value_type": "none",
+            "color": "#5F9BC8",
+            "id": 5413,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "808730",
+            "value_type": "none",
+            "color": "#EC5FEC",
+            "id": 5410,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "808738",
+            "value_type": "none",
+            "color": "#6FECC7",
+            "id": 5409,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "810930",
+            "value_type": "none",
+            "color": "#3C5190",
+            "id": 5392,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "811537",
+            "value_type": "none",
+            "color": "#B08E11",
+            "id": 5367,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "811538",
+            "value_type": "none",
+            "color": "#49F37F",
+            "id": 5371,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "811600",
+            "value_type": "none",
+            "color": "#B7A424",
+            "id": 5368,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "811602",
+            "value_type": "none",
+            "color": "#7AD62E",
+            "id": 5366,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "811608",
+            "value_type": "none",
+            "color": "#57C8CB",
+            "id": 5357,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "812154",
+            "value_type": "none",
+            "color": "#CE3675",
+            "id": 5378,
             "hotkey": "",
             "applicable_type": "all",
             "classes": []

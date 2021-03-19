@@ -2,18 +2,37 @@
     "description": "",
     "tags": [
         {
-            "id": 564974,
-            "tagId": 5055,
+            "id": 565496,
+            "tagId": 5351,
             "name": "175421",
             "value": null,
             "labelerLogin": "admin",
-            "createdAt": "2021-03-05T12:45:30.592Z",
-            "updatedAt": "2021-03-05T12:45:30.592Z"
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z"
         }
     ],
     "size": {
         "height": 800,
         "width": 800
     },
-    "objects": []
+    "objects": [
+        {
+            "id": 7675456,
+            "classId": 22905,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z",
+            "tags": [],
+            "classTitle": "product",
+            "bitmap": {
+                "data": "eJwB9wII/YlQTkcNChoKAAAADUlIRFIAAAGNAAACewEDAAAAJUpfCwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKfSURBVHic7d3BreIwEAZgoz3sMSWkFB9eF9uM3cc2k1JSgo8+RMlCWHh5gIj/iTIanH8uSOAPbMLYEMDj/jgomim6ME1TKhbn1lcyTe7093IxrAg/fZN7jIs+jA/g19ziiczX/b/xHNk/ipfkMa4jPX3f4zqZh7jsRIH4GQcnXUVE9IwFlDgJ8TZJrIg41x6bNPuT8fDkdy1kWKzXJCWRReS03upjCLq+JpKAkb4y4jHSVUZajEQ10uxOnIyAy5gKGRefY+0RbB4f9Ag2XeqQPJOgQjxCkiJpdya9lDQqBEr+TpFAyS8g0cGZrEmgTHZiEqyR2zlWr0Jaa+R2jrpRIUBaCkiWEyCTNxAgLZOcAGmpQ/obCcZIp0t8MYlWidMgo1UyWCVZhZgdvvYLJtgiU5WkWNgnwCKuQ+KxidnjsoGYffGTHJFEEhISEhISEkskkICkWHzAWEhISEhISEhISLYTt4F4EhIrxOw37zrE7HEhqYdEEhISEpKjkkBSFh0JCQnJgUmxICEhISEh+WDSWyUHH755AvxpgoSEhISEpJiYXfhIbJGuRhKMkWie+D2JM09aYyRWRDqrpL+RxhhJVknWJe2eZNhA/J7k/lvAYIzcJ7JysYEg2wIKSLwSZFdEOUF2eOzEpNmX9GLS7ksSmmFbSNiXZDEBhIQMigTaEVRARqtkkhJsM2gdEoUE23Fbh3RC0uxNeiFpDZIkJL4iEiCSayOQUCKDjIBFU0wTsJiNDhllBKwBUROZLJOmFhLxkmyVEW+SdCISjk1AcXnbZ5WgVczUCFoqriqSJARdXs4d0yGNAkkqjyIiLUoSPCVLSIZnPpIPIvNpk0t8FZDknuMd6V+0v0f7TB7LoL9hVzKst19GeN+jlySvt/kZ/wD0ekSF2bTxxAAAAABJRU5ErkJgggcOQS4=",
+                "origin": [
+                    200,
+                    75
+                ]
+            }
+        }
+    ]
 }

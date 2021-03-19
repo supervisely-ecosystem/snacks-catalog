@@ -2,18 +2,37 @@
     "description": "",
     "tags": [
         {
-            "id": 564986,
-            "tagId": 5068,
+            "id": 565509,
+            "tagId": 5365,
             "name": "192791",
             "value": null,
             "labelerLogin": "admin",
-            "createdAt": "2021-03-05T12:51:07.108Z",
-            "updatedAt": "2021-03-05T12:51:07.108Z"
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z"
         }
     ],
     "size": {
         "height": 800,
         "width": 800
     },
-    "objects": []
+    "objects": [
+        {
+            "id": 7675478,
+            "classId": 22905,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z",
+            "tags": [],
+            "classTitle": "product",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg3M3AwNTEyAwUKbJ6uhRIsQX4hLgC6f///y+9Of8ukMVYEuQXzODw7EYaUG2vp4tjSMWct3cd+14Z8LA96InYk9o3YfGTJGVV99OBVS1em18qZc1f5sXOskUg2mLGn/9cnXUBAcnLOVSPyaj1HD8/fUfq2S+/KyyfW5aaVz8vdvD69PTj8q9L3yRvVRP7unXuYeH8cv2uBJP+fkaWEF5eWTbVArNjzPsYrA7UZqQmhrH+r7WaI/GBZQf/fo+CNwx8bTdOTz3o0LhS+IWmQZfz4cZ1zBmceXnMmrV9PMbcQbv6bObo1aVXFlus28+p2eQowGfz4ujC1e0rBbc8mhBQosQvlNVuEyO7tMxAcSFLx+GdBxT49kqciXlxZOHaVmHxsOkMZmvkTqZYFCWWciocPijgbiTf5jXjxgXvgzsc1Vl7pSy6D69h93tU8Kd5H7MEw/rifUWvYphn3Nywzf5T4luZhGvM/6Mcvk7xUdyy1YAJCOpMfBogYFaiTsCbe1nLDvHskP+03Wu/ux9IVCqBBQL2dDKyiLQ+sQ5zAALPFSvWMe1jcQOxHWdwbYEa0fCeV1YBCB7YvmAEA3txqwPlTWIf5i5o2u/znWW1+EGGGtYe1jD9jGvMJtEM+UafExly+MV7L4QfusHoI3vAkV9mpbilfJiV1R2xGavz1uRobD+Wo7ehapE2/3a5hKMLhZuj+T88Mjhx0EO6TzdhUe/jsgkbzv1ZwN7Xm1C6NumAJ/8ZmwzTA5HSJV8LXjIeM7vgfegKN8+kghesQjHMFq+aluiqnyzIYvKs7mOSU7msFvbXwbuxWP3CywZu9l98CQFMysyTYoQ9bttECfuUeNwu28Op8lUm9QLTO2f31nls7EmlLCw1jH9WNj+v3eb1JnnG+rOpfrsLbJJU/7EtU78Semhu/9eQfZ6nZvw/K/80dHXC3TXAVMrg6ernss4poQkAhDYvyw==",
+                "origin": [
+                    178,
+                    79
+                ]
+            }
+        }
+    ]
 }

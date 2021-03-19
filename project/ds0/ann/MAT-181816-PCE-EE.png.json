@@ -2,18 +2,37 @@
     "description": "",
     "tags": [
         {
-            "id": 564977,
-            "tagId": 5058,
+            "id": 565499,
+            "tagId": 5354,
             "name": "181816",
             "value": null,
             "labelerLogin": "admin",
-            "createdAt": "2021-03-05T12:47:07.498Z",
-            "updatedAt": "2021-03-05T12:47:07.498Z"
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z"
         }
     ],
     "size": {
         "height": 800,
         "width": 800
     },
-    "objects": []
+    "objects": [
+        {
+            "id": 7675450,
+            "classId": 22905,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z",
+            "tags": [],
+            "classTitle": "product",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgnMfAwBTHyAwU2bfpYyqQYgvwCXEF0v///196c/5dIIuxJMgvmMHh2Y00oNoyTxfHkIo5b+86TnqkIMKWsKzqonffgcAZsw9etPDqm3BUJ2LJoYxsk8Vvp/x3jpv84//uKXVSpu8TJ2oZsJ3Pn1MzJcVJU5X52HRmrfjO9sPpX55/PMkdpRrnn7LPdKGNw1IZudLVh0v+mjw13HW6c+frh8Yv1JgFL9oLxrq9rNkqLLub+6KgpYzrItab8yZOXOi/yPnZa4v/316I9yyrVaq5cNbaldE1+f+J1QsW1j8JmBIyMdQxsOvBRreeB2l5IYK3ktJjW8zsBGeFTea5q9S/UMfdj7G3KOWqQMT7ZpnGpavb/YSTE16GKWwocdWQchS9pnBfbibXk1mLU52ur1JcweWascoxQDQMyCrmbVq1gY+VoTf0xHa3Zimv2sURrTHZKVsurGlbti/w3e8vLis+Hf/aG6hopR628II5Uw+PqpLSIt3FDi4QsMX/SWcHBJgs7+zs2NbAc1F7grKSktIufxWlKsVPawOV4KCKU6qjjocVyhNhfKYe8OL3F7DmqIUOLipuK7l+mrsXOq7zTinreLXP9rYq0D2JjidWeSiZfOstup+xymmb6S6duEdXJrAHrHRaaNmV3jJDq0X363StC+7VJg+mBrbrtBzjenJrcUxjTbUJ5ylPece0l4l7FymtKPMVOcrxWttpilnDhdaN7LEpjiavlNgX7Ql/4mjyctEGfRPuqJ9iAnsyO+S0mth2s7a8v6PsVDj/RFnPJLUil6ev9bvvK3LJLg7ccDDoP4f8PJHAaYo1Fa/kOc1Ov5aLXCRcJPREVeNBhlKV+xT5/bd0d93ZF/kp1jxisfWGc1J/dy743yldWbf8B0+kasx7Q7u5+7N2cMcKxcrwAJMjg6ern8s6p4QmANlLMew=",
+                "origin": [
+                    189,
+                    99
+                ]
+            }
+        }
+    ]
 }

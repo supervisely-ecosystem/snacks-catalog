@@ -2,18 +2,37 @@
     "description": "",
     "tags": [
         {
-            "id": 564987,
-            "tagId": 5069,
+            "id": 565510,
+            "tagId": 5358,
             "name": "192793",
             "value": null,
             "labelerLogin": "admin",
-            "createdAt": "2021-03-05T12:51:23.883Z",
-            "updatedAt": "2021-03-05T12:51:23.883Z"
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z"
         }
     ],
     "size": {
         "height": 800,
         "width": 800
     },
-    "objects": []
+    "objects": [
+        {
+            "id": 7675508,
+            "classId": 22905,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z",
+            "tags": [],
+            "classTitle": "product",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg3MXAwBTNyAwUWXHycA2QYgvwCXEF0v///196c/5dIIuxJMgvmMHh2Y00oNqJni6OIRVz3t51zFttIMCWsEpv1xfBGhH5s3ZS7g85dPY+mBmWufL2Picj4/e9kn/+d3sEfuoUOGrcN/GMgczTl+cfnv5a+zp62tubp6tOl0z/War/8t7Bb8b/K4orq3uOP1H++Ztdu5x/6+RPLxh5D29lfWJ5IPjgJSa3Uol1fNMX/+K1sIid4XtQXLkgj3E+Y7lR4fKUbQrrz/fKHvjyIeWeGY+MxY2meQ+9pF9IFBiyWb7V2t4455khkJA70HY59+MhgZ6uApkZV73kl+3iWMo1l/XHPqfjK2SdPPQZXTleqjpwvVSeySuu2fPKICBxmtN6vrlSc5ZOsJl0FIjVNVX6U8xk2J81TDns0eLJwyzIl/RiakJge7fsjKsP1/AtbzO48OAG45p4PxvrNfaWs7IZ7I8rbz1r2nLF8sAlviB1j6XqL/z4wx3A4MB/hpPaHg2oYHvEHjEGjoqiE/tWsFdozWD83dZWt7qB3fCKNcN6Rt6/3AwsQGDTxicABh/uO/JzAEEFnwQDY69DfeIMhvfO7BVqHnFxzDUMk8o3M9qcUGh9srbOqqHUXPrA/qDv5zunt97kW/NcQo/bm73AlOUy29/Shyf+Fj0xEHqo0uZyvP1zu/L2IkMV/wmbRCaln0h6saJgotN6tu2HpK4khjRHu6rtTpuw8XxFULtyvszspmBlj3Wh0a77zM7s2ZTFpVeW8PCrTHDBVjZm5mVxCVdaFhueKKixuNm05nabZNNmlk3vpK8znxE6MUN+ZrOfqJ7vgvcMbHw62xK2MIanTTdmq/z+MYdBWP7Tu+O3WDZZOehfWOl8vrWRW5m/r6HB2lLP3T5x75X4z9lP/7Itjw85+5nPxsX032eXR7uXq9ft3ON/UlvJo9VkarX1HGBKZfB09XNZ55TQBACpPT1b",
+                "origin": [
+                    179,
+                    98
+                ]
+            }
+        }
+    ]
 }
