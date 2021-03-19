@@ -1,0 +1,38 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 565551,
+            "tagId": 5366,
+            "name": "811602",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z"
+        }
+    ],
+    "size": {
+        "height": 800,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 7675586,
+            "classId": 22905,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z",
+            "tags": [],
+            "classTitle": "product",
+            "bitmap": {
+                "data": "eJwBRgS5+4lQTkcNChoKAAAADUlIRFIAAAIBAAACrQEDAAAAhPYvtwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPuSURBVHic7d1BdpswEAZg9WXRXXUE9RZd6mjoZtUNcgWOwJIFDzUhYMCmMZ5/Gsb0n1Uez/kiiRmQgGDnXsoQ2YnDlzHa9fZ4u+me8Bbz1jBu6R8USmlutnV3hVDW0V2Z9/tyLWxFgoXPe7JHWBHLX+h3C/NYxNvt+4RxT2/Ke4WSX/7Stt3CZuBCR2GInoIZoVDQEtL1GUcifIeFraPfY8I3A8LtOeCheD+LVLAQjxUeOPV+JnhYgJKy0xGgtB4EKCnb7YnJlwqNQ9O62ZqeCYQACLWS4AEhOzQpPwQkKZOSgKT1OF+XA9MyrDpQmFYuERaCWJiWPv5AoRkFeVpPgjwp61GQJyUuZIem9UWopEKahHicMAHitJ6vsXhYkCZlpyhI03q+xiNNysVVIqHQaAqVTKhnIcJCkAkZFtIseFgQJuUMSJMSFvpTCB0stKqCLB9woTEm+IOE2oCQF0I4SEjGhHiQ4Ci8R68rVM8qdAaE9hRCY02QABQorKI1IFgYBwpaQn0KIRtoAwUtAd+bFCgsIy2FyoAgAez14lmF9cOZxwirRbNszas8kqI2KPfioDacQujMCeEQoTUgNKcQ6pXgn1RoYaExIODj8BMW3PFCT2GIDhZaA22wIFyNg+DeIi50sNBTMCMUA4KJXiQDbVgLkicoKHxEgoVMQUnA98U5BKcsCB6g7CkM0RkQWgoUjAnqdSE4ylHQElpY6A0I+DhY6MU5BAv7wsT6AhfSSnjSqwcUNgULOWnhCsZ/K5i4okVhS2BlHSgYPFZzJClQUBHwO4MUKFCgsFPwFChQoECBAgXbgoUnUSlQoECBAoWvESyceSlQ+EQIFChQ+AdCpECBwo1QUaBgTHgcoEDh9ILkLf0UKJxdkDxGSoECBQoUKFCg8IxCS4ECBZOCheMDBQoUKFCgQIECBQoUKFCgQOGrBMkrSbQFb0AITyqs/+8gGhAqA4IAUBBW7+qRPDigLUgOD9qC7Fvtk6rgDxLyQgiwEA0IlUioVQURoCvISnP5fUm4ICtNXUFWmssbGN6AEAwI0YBQGRBkwEIQFpYxQViaC0FYmqqCNyAEodArClEozBOpSiokWMhgaS5OnGKhAQtLQ5hSSlqac0LggrQ0yyWlvFxIsJCxwiqXlMKFKBcaWGjB0tQQOrA0J0FeWFNa44K8sMpYGLgAlOZYWpCQwdK0IdQGhMaA0OoIARE6WOgNCEVHiJCQKFyEioKSAAEKQlYRAixgSZnXkzlBi/JyLtZKJgOjMPzl8Uf3QySs4qGJ1aawHNvf5bX8aqrXdPWJcEfYES+wMDUDET72YI0IA4EJ7x0BhbfxRAXnGuf+AOcscamh73CFAAAAAElFTkSuQmCCuaDHZw==",
+                "origin": [
+                    143,
+                    60
+                ]
+            }
+        }
+    ]
+}

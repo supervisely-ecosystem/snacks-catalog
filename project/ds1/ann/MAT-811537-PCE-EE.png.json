@@ -1,0 +1,38 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 565548,
+            "tagId": 5367,
+            "name": "811537",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z"
+        }
+    ],
+    "size": {
+        "height": 800,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 7675556,
+            "classId": 22905,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z",
+            "tags": [],
+            "classTitle": "product",
+            "bitmap": {
+                "data": "eJwBqgNV/IlQTkcNChoKAAAADUlIRFIAAAHnAAACkwEDAAAAGZhSXQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAANSSURBVHic7d1NlqowEAVgPD1wyBJYSpaWLC1LyRIyzCCPPP9AEGihKk0ZuXfgOdJ8gGgV4bTdqSpSzsnQ4DV1SsltZ9rc95wo/Jzi5fGUUsfPs9tQ15/OLg5Vlbr420u4Jo528cjt2c+N3JLGiVXzsiSZ+nXJbeloq4+0U70Qfz1nk32rlfpy+JMlW/Q0PB0EtWdqzdCOqRVDW9a+edoI6mndbEgrqCNLB5b2LO1Y2rK0YemZLrtN03HL0pGlg6D2LO0EtWV9WnjadOMbsm7I+jqSqWV0OzeKWp34GMtJ6Nv48fR+vb/Qfm7kulFronYZtGLpRlDXgppaJra75SHFZNDUD7plaTN7g7c287eHK9M+tBbUiqRjFt0I6pqkQxZNK9E8mlaiPoumlShPu4pTor3WglpRtM2jm/216XTN0qQyqfJoUpmwdNtrSpnETJpSZOGp9d7aP7XaW7unbgR1vV3bpyaUSTZNKBOeHpw1QpkMNKFMjqp9sTpAQx9AS9ZYPq2hC9AO+lDaQu+uDXRhuvoKrbbi9qA6Qu+uw0G1F9QOmqAtNDT012p3UO3z6QYa+reET9FqXx1ZR35U3UJDQ3+tLrczQUNDQ0NDQ0NDQ0NDS+ty7wWhoaGhoaGhoaGhoaGhoTcGGhoaGhoaGhr6bcr9HhfvyP8V+45BQ0MXo2toaGhoaGho6A/WBlpUb//nrdDQZWjL0g66MO2hoaGh/0AH6MPqGhoaGvoLdISGhi5EN4JaCWq9WQ+/mrMZf4omzEeVTRNm0pLUg187UCb5y6Xr3bXpdSOoFUHbTFrvrp2g9pk0AQ+GmvvrKKhblk6S2gjqvsh0adoJav8JWlF0yKO1oKbgZ3NhadpE2DzdNTbaBOB5NG3i85RF1+Vpc9eNoFY0beW1ltCO0RzyaFpz6C4HkprWWrg6cFqLqI6c1vIBuiHqNoNWIjpxWssHaCq+X0xYmtpaZLVlNKYcmtpa5HUtpB2jtUBDb4nfQ5v5vrtOh4Xmt04v9S8/qdB2emGKS6O6qZ5ZrXpEvdUze6n6vG43jPva44Z8eIpGf2T+0gPH2vdrjZ8No150fzzDlZp21nZbnmi3uPprfob6NH1573Ie6eXDXIrqNDGapS+nL1T/AbOxiApFiPLUAAAAAElFTkSuQmCCgQzQDA==",
+                "origin": [
+                    163,
+                    59
+                ]
+            }
+        }
+    ]
+}

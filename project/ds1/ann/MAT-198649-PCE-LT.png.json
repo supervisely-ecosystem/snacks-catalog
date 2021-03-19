@@ -1,0 +1,38 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 565524,
+            "tagId": 5339,
+            "name": "198649",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z"
+        }
+    ],
+    "size": {
+        "height": 800,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 7675480,
+            "classId": 22905,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-19T08:49:01.948Z",
+            "updatedAt": "2021-03-19T08:49:01.948Z",
+            "tags": [],
+            "classTitle": "product",
+            "bitmap": {
+                "data": "eJwBhgN5/IlQTkcNChoKAAAADUlIRFIAAAHqAAAC+gEDAAAAw52HfwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAMuSURBVHic7d1BjtswDAVQFV10qSP4KO7NpKPpKDqCll4YcjuZTDABuqg+OSE1+tw/BDDCL9E2rBAvvM4QBPq6sowXcnJycnJycn9cuL6LeZLwIOW7QHcx3wT8NOVHCNGOtxB+2fEawk9T/kPAiynPQTSNKPCE8yDnO6y7Pd9gftrzaMUPBY6nlZA3BY6HXbXneNgVe45npZBnBzyhPDjgO6i7B76B/FTh0YYfHjia1ELe3jkatS44GrXVA0ezsrjgaUaedfg+I79rNKl98GjBuxLHktqWnx8cS+rvwbGgP74Fx9YJW94ePM3MdwNetfhmyiPCixaHolaNQ2En5PnBobhR41Be6PEE8KDG95n5Nq67Ho8v56ceB/JCkQN5IeSHGw6k1dS8feJAVn4fnoZ5JUd5ITfimdyIB3KQ94X5+cRHtTE/FubNDx/fFtaFeZmZZz98fBAL6/JOTj5+34bcil/k5OQT8UxOTj5ShdwDHx9GnrhwCB2/+UBOTk5OTk7+z6rk5FPz2R7rkN9rfJrQ5FNfOnJycvIVuO0yQQ7zqf915C/khZx85VfUpubj8zs5+et5IHfBEzn51/NOTk5OvgA/VflOTk7umB+eeCKfhDdyI17J5+RlYZ7Jl+SB3IZ3cnJy8hn41Enri++DPJOTj/OiyjfySXj1xCP5f1cjn5Mfnvi2Ep/6sY7uY1xbPqilvGvy4RdiPfHJvhzo6VtecWa+DfPsh+9r8UKO8kpuxBs5yp82tYn8dfxU5MPamHc3HDgPamp+6XHkzMSVefbCkaM2p+ZFjUfyoape+DYdb+Rvtb+eH+Qo/7QvTORD1dU4oKX8csKhk7SlPC/MyweHTlA35lWJQ2fXG/Pmg0eIHz74ZsFPJb5b8O6DJ4hfU/N855g25uVdY2uUFsdWiUdSz8nbO8diXswPFR5t+CnJaWveJUEr5pco6sQ8a3BUS3mRRJ2YV0nYiHmTpIWYH5K0EPNTgW8w7wp8h/mlwBPOs5zj+taxMo63+61jJbxJ2v3G8X69tZyQRwE/ZbxLGk7ML1HDiXmWNNwbl+i/PUNOTk5OTk5O/lS/pb8u25T+AbJcOh7ezgCnAAAAAElFTkSuQmCClJrATA==",
+                "origin": [
+                    155,
+                    19
+                ]
+            }
+        }
+    ]
+}
