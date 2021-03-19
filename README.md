@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#overview">Statistics</a> •
-  <a href="#data-rights">Examples</a> • 
+  <a href="#data-rights">Examples</a>
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
@@ -21,19 +21,22 @@
 
 <img src="https://i.imgur.com/aqWwhYH.png"/>
 
-Demo project with snacks photos and a product catalog `.csv` file. Can be used as a playground for:
-- testing different models: detection / segmentation 
-- demo for synthetic data
-- modeling some retail tasks
+Demo project with photos of products from snacks catalog (file `snacks_catalog.csv`). 
 
-Here are some examples:
-<img src="https://i.imgur.com/CtFOAW1.png"/>
+Can be used as demo for:
+- apps in Supervisely Ecosystem for retail industry
+- synthetic data generation
+
 
 ## Data Statistics
 
-- There are 83 images in 1 dataset
-- Each image contains 1 object, all objects are labeled witht `product` class
-- All images are tagged with a unique tag correspoding to the Product ID in `snacks_catalog.csv`
+- Catalog contains 83 products
+- There are 83 images in a single dataset (one image for a product, in general every product may have more than 1 image)
+- Every image has 1 labeled object with `product` class
+- All images are tagged with a unique tag correspoding to the `Product ID` column in `snacks_catalog.csv`
 
-<img src="https://i.imgur.com/A5kmWmp.png"/>
+## Examples
+
+TODO
+
   
