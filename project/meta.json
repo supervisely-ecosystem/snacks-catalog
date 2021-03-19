@@ -1,0 +1,528 @@
+{
+    "classes": [],
+    "tags": [
+        {
+            "name": "173403",
+            "value_type": "none",
+            "color": "#F3127B",
+            "id": 5054,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "175421",
+            "value_type": "none",
+            "color": "#70C64E",
+            "id": 5055,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "287627",
+            "value_type": "none",
+            "color": "#3B32B8",
+            "id": 5032,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "287629",
+            "value_type": "none",
+            "color": "#AF874B",
+            "id": 5033,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1000591",
+            "value_type": "none",
+            "color": "#1B8356",
+            "id": 5034,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1001130",
+            "value_type": "none",
+            "color": "#CC3E5F",
+            "id": 5035,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1001140",
+            "value_type": "none",
+            "color": "#8819D7",
+            "id": 5036,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1001141",
+            "value_type": "none",
+            "color": "#E98E6D",
+            "id": 5037,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1001143",
+            "value_type": "none",
+            "color": "#B98CD4",
+            "id": 5038,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1001257",
+            "value_type": "none",
+            "color": "#CD889B",
+            "id": 5039,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1001461",
+            "value_type": "none",
+            "color": "#5BBDE1",
+            "id": 5040,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1001662",
+            "value_type": "none",
+            "color": "#85D355",
+            "id": 5041,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1001671",
+            "value_type": "none",
+            "color": "#0DD939",
+            "id": 5042,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1003101",
+            "value_type": "none",
+            "color": "#348365",
+            "id": 5043,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "124215",
+            "value_type": "none",
+            "color": "#E0429F",
+            "id": 5044,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "127406",
+            "value_type": "none",
+            "color": "#C4A654",
+            "id": 5045,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "127407",
+            "value_type": "none",
+            "color": "#62D001",
+            "id": 5046,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "127408",
+            "value_type": "none",
+            "color": "#352390",
+            "id": 5047,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "127409",
+            "value_type": "none",
+            "color": "#D3B573",
+            "id": 5048,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "155749",
+            "value_type": "none",
+            "color": "#C44F67",
+            "id": 5049,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "155750",
+            "value_type": "none",
+            "color": "#9A9132",
+            "id": 5050,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "164319",
+            "value_type": "none",
+            "color": "#DD00E0",
+            "id": 5051,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "173064",
+            "value_type": "none",
+            "color": "#45DEB3",
+            "id": 5052,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "173074",
+            "value_type": "none",
+            "color": "#9F16A2",
+            "id": 5053,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "176322",
+            "value_type": "none",
+            "color": "#F1FA47",
+            "id": 5056,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "180422",
+            "value_type": "none",
+            "color": "#98B950",
+            "id": 5057,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "181816",
+            "value_type": "none",
+            "color": "#988F16",
+            "id": 5058,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "185371",
+            "value_type": "none",
+            "color": "#C266B1",
+            "id": 5059,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "187908",
+            "value_type": "none",
+            "color": "#15AAAC",
+            "id": 5060,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "190818",
+            "value_type": "none",
+            "color": "#57CBC4",
+            "id": 5061,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192222",
+            "value_type": "none",
+            "color": "#A05BE1",
+            "id": 5062,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192223",
+            "value_type": "none",
+            "color": "#CB9A76",
+            "id": 5063,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192779",
+            "value_type": "none",
+            "color": "#A5B909",
+            "id": 5064,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192789",
+            "value_type": "none",
+            "color": "#0F9F63",
+            "id": 5067,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192795",
+            "value_type": "none",
+            "color": "#C97A64",
+            "id": 5070,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192877",
+            "value_type": "none",
+            "color": "#52BFEB",
+            "id": 5073,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "194238",
+            "value_type": "none",
+            "color": "#E41188",
+            "id": 5076,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198522",
+            "value_type": "none",
+            "color": "#DAAE10",
+            "id": 5079,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192786",
+            "value_type": "none",
+            "color": "#C8DB39",
+            "id": 5065,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192791",
+            "value_type": "none",
+            "color": "#B54AF7",
+            "id": 5068,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192867",
+            "value_type": "none",
+            "color": "#44D5A2",
+            "id": 5071,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "194232",
+            "value_type": "none",
+            "color": "#E0221F",
+            "id": 5075,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "197812",
+            "value_type": "none",
+            "color": "#9888CD",
+            "id": 5078,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192788",
+            "value_type": "none",
+            "color": "#764723",
+            "id": 5066,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192793",
+            "value_type": "none",
+            "color": "#981F72",
+            "id": 5069,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "192868",
+            "value_type": "none",
+            "color": "#B89B56",
+            "id": 5072,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "194170",
+            "value_type": "none",
+            "color": "#07EDBC",
+            "id": 5074,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "194896",
+            "value_type": "none",
+            "color": "#BD3228",
+            "id": 5077,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198530",
+            "value_type": "none",
+            "color": "#6F2A33",
+            "id": 5080,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "124216",
+            "value_type": "none",
+            "color": "#87DE90",
+            "id": 5081,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198643",
+            "value_type": "none",
+            "color": "#5A3A8D",
+            "id": 5082,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198648",
+            "value_type": "none",
+            "color": "#B2B95B",
+            "id": 5083,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198649",
+            "value_type": "none",
+            "color": "#8F8F24",
+            "id": 5084,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198651",
+            "value_type": "none",
+            "color": "#462C6D",
+            "id": 5085,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198652",
+            "value_type": "none",
+            "color": "#FB2F18",
+            "id": 5086,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198656",
+            "value_type": "none",
+            "color": "#2EA359",
+            "id": 5087,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198660",
+            "value_type": "none",
+            "color": "#DD3666",
+            "id": 5088,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "198666",
+            "value_type": "none",
+            "color": "#AD1473",
+            "id": 5089,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}

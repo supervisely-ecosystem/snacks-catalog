@@ -1,0 +1,19 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 565000,
+            "tagId": 5082,
+            "name": "198643",
+            "value": null,
+            "labelerLogin": "admin",
+            "createdAt": "2021-03-05T12:57:22.261Z",
+            "updatedAt": "2021-03-05T12:57:22.261Z"
+        }
+    ],
+    "size": {
+        "height": 800,
+        "width": 800
+    },
+    "objects": []
+}
