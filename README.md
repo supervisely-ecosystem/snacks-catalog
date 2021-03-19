@@ -21,36 +21,19 @@
 
 <img src="https://i.imgur.com/aqWwhYH.png"/>
 
-Demo project with seeds photos for research. Can be used as a playground for:
-- testing different models: detection / segmentation / instance segmentation
+Demo project with snacks photos and a product catalog `.csv` file. Can be used as a playground for:
+- testing different models: detection / segmentation 
 - demo for synthetic data
-- all images have the same resolution: 4032 * 2268 => so it is a good test for sliding window approaches
-- modeling some close tasks from different industries, images may have similar properties in terms of lighting conditions, number of objects and their sizes, camera positions, etc; for example:
-  - agriculture (find plants diseases, count items, inspect their properties (e.g. size) and quality)
-  - medicine (x-ray)
-  - microbiology (microscope images)
-  - visual inspection and quality control in production (defects, holes, production lanes)
-  - and so on ...
+- modeling some retail tasks
 
 Here are some examples:
 <img src="https://i.imgur.com/CtFOAW1.png"/>
 
 ## Data Statistics
 
-- All images have the same resolution 4032 x 2268 x 3 (height x width x channels)
-  
-- There are no labeled objects
+- There are 83 images in 1 dataset
+- Each image contains 1 object, all objects are labeled witht `product` class
+- All images are tagged with a unique tag correspoding to the Product ID in `snacks_catalog.csv`
 
-- Datasets:
-    - `01_background` - background images without objects
-    - `02_sunflower` - sunflower seeds with different density
-    - `03_pumpkin_peeled` - peeled pumpkin seeds with different density
-    - `04_pumpkin_unpeeled` - unpeeled pumpkin seeds with different density
-    - `05_pumpkin_mx` - mix of peeled and unpeeled pumpkin seeds with different density
-    - `06_mix` - mix of sunflower, peeled and unpeeled pumpkin seeds
-    
 <img src="https://i.imgur.com/A5kmWmp.png"/>
   
-- Classes
-
-<img src="https://i.imgur.com/U3TYZPw.png" width="350px"/>
