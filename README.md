@@ -1,7 +1,7 @@
 <div align="center" markdown>
 <img src="https://i.imgur.com/UdBujFN.png" width="250"/>
 
-# Seeds
+# Snacks Catalog
 
 <p align="center">
   <a href="#overview">Overview</a> •
@@ -10,9 +10,9 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/seeds)
-[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/seeds&counter=views&label=views)](https://supervise.ly)
-[![downloads](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/seeds&counter=downloads&label=downloads)](https://supervise.ly)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/snacks-catalog)
+[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/snacks-catalog&counter=views&label=views)](https://supervise.ly)
+[![downloads](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/snacks-catalog&counter=downloads&label=downloads)](https://supervise.ly)
 
 </div>
 
