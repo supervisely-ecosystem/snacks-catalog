@@ -2,8 +2,8 @@
     "description": "",
     "tags": [
         {
-            "id": 565512,
-            "tagId": 5348,
+            "id": 565944,
+            "tagId": 5768,
             "name": "192867",
             "value": null,
             "labelerLogin": "admin",
@@ -17,8 +17,8 @@
     },
     "objects": [
         {
-            "id": 7675504,
-            "classId": 22905,
+            "id": 7676817,
+            "classId": 22936,
             "description": "",
             "geometryType": "bitmap",
             "labelerLogin": "admin",
