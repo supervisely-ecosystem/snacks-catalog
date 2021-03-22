@@ -31,9 +31,9 @@ Can be used as demo for:
 ## Data Statistics
 
 - Catalog contains 83 products
-- There are 83 images in a single dataset (one image for a product, in general every product may have more than 1 image)
-- Every image has 1 labeled object with `product` class
-- All images are tagged with a unique tag correspoding to the `Product ID` column in `snacks_catalog.csv`
+- There are 83 images in a single dataset (one image for a product), in general every product may have more than 1 image and one image may have more than one labeled product
+- Every image has at least 1 labeled object with `product` class
+- All objects are tagged with a unique tag corresponding to the `Product ID` column in `snacks_catalog.csv`
 
 ## Examples
 
