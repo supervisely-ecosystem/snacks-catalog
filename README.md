@@ -37,6 +37,6 @@ Can be used as demo for:
 
 ## Examples
 
-<img src="https://media0.giphy.com/media/OJ3yvul4NUAb465gd4/giphy.gif"/>
+<img src="https://media0.giphy.com/media/LPEIEhH3Z6NuprYmnl/giphy.gif"/>
 
   
