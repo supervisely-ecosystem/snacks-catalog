@@ -1,30 +1,30 @@
 {
     "description": "",
-    "tags": [
-        {
-            "id": 565945,
-            "tagId": 5772,
-            "name": "194232",
-            "value": null,
-            "labelerLogin": "admin",
-            "createdAt": "2021-03-19T08:49:01.948Z",
-            "updatedAt": "2021-03-19T08:49:01.948Z"
-        }
-    ],
+    "tags": [],
     "size": {
         "height": 800,
         "width": 800
     },
     "objects": [
         {
-            "id": 7676818,
-            "classId": 22936,
+            "id": 7677236,
+            "classId": 22941,
             "description": "",
             "geometryType": "bitmap",
             "labelerLogin": "admin",
             "createdAt": "2021-03-19T08:49:01.948Z",
             "updatedAt": "2021-03-19T08:49:01.948Z",
-            "tags": [],
+            "tags": [
+                {
+                    "id": 223103,
+                    "tagId": 6187,
+                    "name": "194232",
+                    "value": null,
+                    "labelerLogin": "admin",
+                    "createdAt": "2021-03-19T08:49:01.948Z",
+                    "updatedAt": "2021-03-19T08:49:01.948Z"
+                }
+            ],
             "classTitle": "product",
             "bitmap": {
                 "data": "eJwBggJ9/YlQTkcNChoKAAAADUlIRFIAAAGZAAAC1wEDAAAAZdGvDAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAIqSURBVHic7d1BasMwEIVhlS669BF8FB9NOpqP4iN46YWx25JAG+iib0yno8k/63wEHiIj2UFTyme9nb+rpdzq5Zef/6q9lFcZnaVUC9KNDTU3ZAzChHQTPb3mmJ4J6cY1PQMKnl74yKuOgkcefsH6oSqbIzbaPdEkoy0hWksZA6PFDc2lDIFRi42EzX8v6OMXTD9rmNAeH8kntQ6Q3HRBl1EF3dAUG41h0ZYVDaAbUjt1WqR26oxo9UXqRsKElg6Q2t5B11FNiCYNzWnRCLqABgfUQB0hcUflhwoI9APS9qNHbLSDQD8h7bBhQhvIG62gC2gBga6jGfSAtIcswVEDdYEKCPS9jk5QBeloB91qA3WBVhAIBAKBQCBPFHxvBHJHwRcsCAQCPRsK3jVAIBAIBAKBQBdR8JeLIBDoaVDw/3yAQCAQCAQCgUAgEOgPUfAjK6gPxIIFgUAgUEQU/D0hyB0FX7CgKyj4oasXJJjcqIKc0Al6AqSYf0AVBLKjBsqPFJMZaTfIJUbara2JkXZJM+gRDX+P5i7QKKGlCzRJaM2LqoS2hOj+XEsy0dFhR+KspODotCN1epYJtQ6QOrnNhOYO0CCipQM0eqA1IbKPuZzCIvu01JoLHXr3DI9OK5JHS9tQ80TyCHAbmnMiffz8Eh4NMlrDo9EHbbHRbkSTG6oyOsIj2djQmRE12zdVN6QbxyBI716e6ZlQdUO6iR95dUO6Ib2LSDdnewfsEitUASPJMAAAAABJRU5ErkJgglweC1Q=",

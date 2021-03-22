@@ -1,30 +1,30 @@
 {
     "description": "",
-    "tags": [
-        {
-            "id": 565936,
-            "tagId": 5738,
-            "name": "1001671",
-            "value": null,
-            "labelerLogin": "admin",
-            "createdAt": "2021-03-19T08:49:01.948Z",
-            "updatedAt": "2021-03-19T08:49:01.948Z"
-        }
-    ],
+    "tags": [],
     "size": {
         "height": 800,
         "width": 800
     },
     "objects": [
         {
-            "id": 7676809,
-            "classId": 22936,
+            "id": 7677227,
+            "classId": 22941,
             "description": "",
             "geometryType": "bitmap",
             "labelerLogin": "admin",
             "createdAt": "2021-03-19T08:49:01.948Z",
             "updatedAt": "2021-03-19T08:49:01.948Z",
-            "tags": [],
+            "tags": [
+                {
+                    "id": 223094,
+                    "tagId": 6153,
+                    "name": "1001671",
+                    "value": null,
+                    "labelerLogin": "admin",
+                    "createdAt": "2021-03-19T08:49:01.948Z",
+                    "updatedAt": "2021-03-19T08:49:01.948Z"
+                }
+            ],
             "classTitle": "product",
             "bitmap": {
                 "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgbGdgYFrNyAwUUQi7/BZIsQX4hLgC6f///y+9Of8ukMVYEuQXzODw7EYaUK2/p4tjSMWct3cPFm42EGhLNLJ88kLojrNUQWaA1NIAJndZjj8HzczYPN88r/coe1S+/plk5lLWFL1okdMa7dVfVsdfL5QQ29jYd/q1+6eZjO8FP8hmBhw7aFDCWeDVKFLp3ezyb6biosUym6+7eyRNfXbRpit3Q8QT/u4Z57V3+1yslM1NMtNXlrjFKbMmacW6RSbdCfe6Nau8K23clJ/auqnnHDPdMlVqseDlHWumsRy7eumShPnFkG2bVxw9cvyK/6KM1kW7XASmZ90pDf3CwcL00XuRiKvBfPFlGU/Tq3X3238x79PraTdkYWo84drvoCDQ8V/Abv7bPbwCQLWNDm+Ua+alWOgqfhOw0/5Y2npea+G6OP8fa7RBcgpxkT9sjAv0HIGaIhViOOeHPgr+cefgfqWad5ZMG9s/VPIXzVeGGKMAo2pkXeBsjvxDz/dbH5l3KF31l8ibdv2Hn/ucFNDUr9f6caoT5Kp0l+dBLCsvv+fnsuVvXzTZuN6r429L6cJyS76g8y8No3Z+L1I2ub3PRbe8Zd0a28P5imbn7ey95r1s1dXNn2Bdsj1p8ceVy7cHRU69NXuPePSa+9E75c8oZfTeb498//2S1rJ1b565LDvydmnpa9F8vbWv9HIuv3p3wGJtmlrO6tCzrU/deFwV+YLsu9467lokwL5y+qMFfBstPbaK/bTlzJ5w/4cd26arW72qs+PiCydErldTDVqp8qykL5hni6TA3Ag5l0vrzQ4YzVzLuK5Q+8mxsr+Wp57Y/WdmPK0dPeWMwVRgOmPwdPVzWeeU0AQAqRcerA==",

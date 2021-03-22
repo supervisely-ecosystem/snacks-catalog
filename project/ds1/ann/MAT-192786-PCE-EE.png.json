@@ -1,30 +1,30 @@
 {
     "description": "",
-    "tags": [
-        {
-            "id": 565926,
-            "tagId": 5762,
-            "name": "192786",
-            "value": null,
-            "labelerLogin": "admin",
-            "createdAt": "2021-03-19T08:49:01.948Z",
-            "updatedAt": "2021-03-19T08:49:01.948Z"
-        }
-    ],
+    "tags": [],
     "size": {
         "height": 800,
         "width": 800
     },
     "objects": [
         {
-            "id": 7676799,
-            "classId": 22936,
+            "id": 7677217,
+            "classId": 22941,
             "description": "",
             "geometryType": "bitmap",
             "labelerLogin": "admin",
             "createdAt": "2021-03-19T08:49:01.948Z",
             "updatedAt": "2021-03-19T08:49:01.948Z",
-            "tags": [],
+            "tags": [
+                {
+                    "id": 223084,
+                    "tagId": 6177,
+                    "name": "192786",
+                    "value": null,
+                    "labelerLogin": "admin",
+                    "createdAt": "2021-03-19T08:49:01.948Z",
+                    "updatedAt": "2021-03-19T08:49:01.948Z"
+                }
+            ],
             "classTitle": "product",
             "bitmap": {
                 "data": "eJwBBwP4/IlQTkcNChoKAAAADUlIRFIAAAHDAAACaAEDAAAAIHsYLQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKvSURBVHic7d1RbqMwEAZgqj7so4/go/hiK5mblaNwBD/6AeFN0yWgsgRmJmV28P+/ReoXoSozY0hkN80ivpS8fP1ebknNbmK5Jz/eZUr/lIXyLO3q73+v3n8j3y45lmFxlUft2/3lcNStcpM8WEZISMijMlYiQw1yONLfa5eOJ3M98hdPJmvy3Y7sJfLNjuwkkjkGNWQrkrECuX+Pcwk5Hrsp+0/kIJPOirzfjLMGi5pkjYdkT7LGQ68lWU2eLzuhjKfKViiDgvQM2QilO1OOX5LRiMSS0RT+SkaBDlLJKDO5jGSZxTKcKFPDLRa5dGTZiyW9WOSSXmadoqQXaCuW9ALly0Yuo4IMRDiqSk+Ug6p0RJkVZDIle7bsVKUnylZVBlMyGpDzJ4EIjclHfZJntoZMckleD/FlVpCPWUZepdqSo1w6yI1AQkJCLtNC/rikP1mChISEhISEvLpsICHtyRc8q4GEhISEhISEhDxN2vpeEPLnZIaErEraqk/IvdiavJCQkJCQkJCQkCalg4SEhISEtClf8ItzDwlZlXQK0kNCQkJCXlY6yLql0edgkJeQj2/f+XtTQO5J8v4mGXInaZLkPXIg9zLvZhYvLeed4sKl5agq/Wmy1CJbTRmospPLqCCpcN4IjS3pO61Okr4vbBJL8lpTsENwFkt/opxadVCQ8UQ5tWoylEvOUQJ6knNMQ6sm6YU9tU1b0jFkX4lMzNZnTeZK5MAcK9bkaFBGhiyQe7kPMw6sRn6OQd4xgbZkryR5R01qyKQkOYs3HZlF0pmRg0h6yCcZmcsEizKyZKlI8qAx2XLPITYnmedKm5O8IWhPOlPSK8jAlpEpO4FkwtuiGvJ5+P/b18quWWSzkX+TY7ORdYdcyn6LzQlrmfbVMvFTfix/4kDKkYv8Z/4Adv1OGzjlyFAAAAAASUVORK5CYIL8tGhB",
