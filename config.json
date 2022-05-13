@@ -3,7 +3,9 @@
   "description": "Labeled images: snacks: chips / crisps / mix",
   "type": "project",
   "categories": [
-    "images"
+    "import",
+    "images",
+    "project"
   ],
   "icon": "https://img.icons8.com/color/100/000000/potato-chips.png",
   "icon_background": "#FFFFFF"
