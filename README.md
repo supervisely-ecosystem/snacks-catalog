@@ -1,5 +1,5 @@
 <div align="center" markdown>
-<img src="https://i.imgur.com/UdBujFN.png" width="250"/>
+<img src="media/eco.png" width="250"/>
 
 # Snacks Catalog
 
@@ -19,7 +19,7 @@
 
 ## Overview 
 
-<img src="https://i.imgur.com/aqWwhYH.png"/>
+<img src="media/poster.png"/>
 
 Demo project with photos of products from snacks catalog (file `snacks_catalog.csv`). 
 
@@ -37,6 +37,6 @@ Can be used as demo for:
 
 ## Examples
 
-<img src="https://media0.giphy.com/media/LPEIEhH3Z6NuprYmnl/giphy.gif"/>
+<img src="hmedia/ex1.gif"/>
 
   
